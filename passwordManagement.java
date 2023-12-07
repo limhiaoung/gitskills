@@ -15,6 +15,9 @@ public class passwordManagement {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;
         do {
+        	System.out.println("--------------------------------");
+        	System.out.println("--------------------------------");
+        	System.out.println("欢迎使用密码管理系统");
             System.out.println("请选择操作：");
             System.out.println("1.加密密码");
             System.out.println("2.解密密码");
