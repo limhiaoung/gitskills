@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class passwordManagement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int choice = 0;
+        int choice = 0;//陈诗欣第五周修改的代码
         do {
         	System.out.println("--------------------------------");
         	System.out.println("--------------------------------");
