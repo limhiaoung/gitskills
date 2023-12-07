@@ -9,7 +9,7 @@
 //注释完成//
 package Git;
 import java.util.Scanner;
-
+//lxy he csx 修改同一个地方
 public class passwordManagement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -58,7 +58,7 @@ public class passwordManagement {
                     System.out.println("无效的选项，请重新输入");
                     break;
             }
-        } while (choice != 5);
+        } while (choice!=5);
     }
 
     // 加密密码
